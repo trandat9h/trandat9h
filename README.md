@@ -6,12 +6,12 @@
 
 # About me
 
-My name is Tran Tuan Dat, 22 years old <br />
+My name is Tran Tuan Dat, 23 years old <br />
 
 Currently I'm a Senior at Ha Noi University of Science and Technology, major in Computer Engineering. <br />
 🎓 Graduated from High School for Gifted Students, Ha Noi University of Education. <br />
 
-Now I am working as a Software Engineering at Got It. Inc. <br />
+Now I am working as a Software Engineer at Got It. Inc. <br />
 
 # Skills
 💪 The order from left to right show the my confidence at that skill from highest to lowest 💪
