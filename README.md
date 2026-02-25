@@ -64,11 +64,6 @@ I’m especially excited about **bridging software engineering with applied AI**
 
 ---
 
-# 📈 My current contribution this year
-<img alt="trandat9h's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trandat9h&count_private=true&theme=tokyonight&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
----
-
 # 📫 **Contact me:**  
 - ✉️ Email: [trantuandat26@gmail.com](mailto:trantuandat26@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dat-tt](https://www.linkedin.com/in/dat-tt)  
